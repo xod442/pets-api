@@ -1,0 +1,7 @@
+wheel
+Flask
+Flask-Script
+mongoengine
+py-bcrypt==0.4
+jsonschema==2.5.1
+flask-mongoengine==0.8.2
